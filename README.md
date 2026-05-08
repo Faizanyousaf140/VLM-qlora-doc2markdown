@@ -11,8 +11,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
-**[📝 Blog Post](https://medium.com/p/ec6f48f6ad0e?postPublishedType=initial) • [🤗 Model](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct) • [📊 Dataset](https://www.kaggle.com/datasets/zphilip/nougat-training-dataset-example) • [💼 LinkedIn](https://www.linkedin.com/posts/
-</div>
 
 ---
 
