@@ -11,8 +11,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
-**[📝 Blog Post](https://medium.com/p/ec6f48f6ad0e?postPublishedType=initial) • [🤗 Model](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct) • [📊 Dataset](https://www.kaggle.com/datasets/zphilip/nougat-training-dataset-example) • [💼 LinkedIn](https://www.linkedin.com/posts/urwa-sajid-134729248_generativeai-machinelearning-visionlanguagemodel-share-7458231960079855616-p0xN)**
-
+**[📝 Blog Post](https://medium.com/p/ec6f48f6ad0e?postPublishedType=initial) • [🤗 Model](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct) • [📊 Dataset](https://www.kaggle.com/datasets/zphilip/nougat-training-dataset-example) • [💼 LinkedIn](https://www.linkedin.com/posts/
 </div>
 
 ---
@@ -591,7 +590,7 @@ demo.launch(share=True)
 | Resource | Link | Description |
 |----------|------|-------------|
 | **📝 Blog Post** | [Medium Article](https://medium.com/p/ec6f48f6ad0e?postPublishedType=initial) | Detailed walkthrough & insights |
-| **💼 LinkedIn** | [Career Post](https://www.linkedin.com/posts/urwa-sajid-134729248_generativeai-machinelearning-visionlanguagemodel-share-7458231960079855616-p0xN) | Professional discussion |
+
 | **🤗 Base Model** | [Hugging Face](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct) | Pre-trained model & docs |
 | **📦 Dataset** | [Kaggle](https://www.kaggle.com/datasets/zphilip/nougat-training-dataset-example) | Training data source |
 | **🔬 Research** | [Qwen2-VL Paper](https://arxiv.org/abs/2409.12191) | Technical architecture |
@@ -665,11 +664,10 @@ demo.launch(share=True)
 **Course:** AI4009 — Generative AI  
 **Institution:** FAST-NUCES  
 **Semester:** Spring 2026  
-**Author:** Urwa Sajid
+**Author:** Faizan Yousaf
 
 Made with ❤️ and 🧠 for the AI community
 
-**[🌟 Follow on GitHub](https://github.com/UrwaSajid)** • **[💼 LinkedIn](https://www.linkedin.com/in/urwa-sajid-134729248)** • **[📧 Email](mailto:urwa.sajid@example.com)**
 
 </div>
 
